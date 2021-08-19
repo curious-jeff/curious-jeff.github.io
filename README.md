@@ -2,4 +2,5 @@
 
 My personal page
 
-* This is the fi
+* Point 1
+* Point 2
