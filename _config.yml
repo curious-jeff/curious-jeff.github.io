@@ -1,7 +1,6 @@
-theme: jekyll-theme-tactile
-
-# Site
 title: Jeffrey's Blog
 description: Personal blog about data science
 author: Jeffrey Li C. N.
+
 url: https://curious-jeff.github.io
+theme: jekyll-theme-tactile
