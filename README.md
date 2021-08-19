@@ -1,4 +1,4 @@
-# Title 1
+## Title 1
 
 My personal page
 
