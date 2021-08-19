@@ -1,5 +1,5 @@
 -----
-# Project One - Exploring eBay Car Sales data
+# Project One - Exploring eBay car sales data
 
 * Using pandas dataframes, 50,000 rows of used car sales data were cleaned and explored
 * Entries with extreme values in the `price` and `registration_year` columns were dropped
