@@ -2,9 +2,9 @@
 ## Project One - Exploring eBay car sales data
 <2021 May>
 
-* Using pandas dataframes, 50,000 rows of used car sales data were cleaned and explored
-* Entries with extreme values in the `price` and `registration_year` columns were dropped
-* The interaction between `price`, `odometer`, and `brand` was explored and tabulated
+* Imported 50,000 rows of used car sales data into pandas dataframe; cleaned and explored dataset
+* Dropped entries with extreme values in the `price` and `registration_year` columns
+* Explored and tabulated interaction between `price`, `odometer`, and `brand` columns
 
 ([Link to notebook](https://github.com/curious-jeff/eBay_car_sales_data_exploration/blob/main/ebay-car-sales-data%202.ipynb))
 
