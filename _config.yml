@@ -1,6 +1,10 @@
+# basic info
 title: Jeffrey's Portfolio
 description: My data science portfolio
-author: Jeffrey Li C. N.
+
+# contacts
+email: curious.cruncher@gmail.com
+github: curious-jeff
 
 url: https://curious-jeff.github.io
 theme: jekyll-theme-tactile
